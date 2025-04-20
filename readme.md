@@ -4,14 +4,14 @@ A simple example of how to create a reusable Go module with commonly used tools.
 
 The includes tools are:
 
-- [✅] Read json
-- [✅] Read json
-- [✅] Read json
-- [❌] Read json
-- [❌] Read json
-- [❌] Read json
-- [❌] Read json
-- [❌] Read json
+- [X] Read json
+- [X] Read json
+- [X] Read json
+- [X] Read json
+- [X] Read json
+- [X] Read json
+- [X] Read json
+- [X] Read json
 
 ## Installation
 
